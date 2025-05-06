@@ -1,0 +1,5 @@
+Options -Indexes
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www.iamtheorigin.org$ [NC]
+RewriteRule ^(.*)$ http://iamtheorigin.org/awstats/$1 [R=301,L]

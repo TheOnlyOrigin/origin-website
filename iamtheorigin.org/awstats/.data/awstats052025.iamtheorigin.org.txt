@@ -1,0 +1,501 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202505 will be lost/reset.
+# Last config file used to build this data file was /home/zoly55/domains/iamtheorigin.org/awstats/.data/awstats.iamtheorigin.org.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2142                
+POS_TIME 2828                
+POS_VISITOR 3628                
+POS_DAY 6362                
+POS_DOMAIN 6540                
+POS_LOGIN 6772                
+POS_ROBOT 6927                
+POS_WORMS 7573                
+POS_EMAILSENDER 7704                
+POS_EMAILRECEIVER 7847                
+POS_SESSION 7923                
+POS_FILESIZE 14201               
+POS_SIDER 8091                
+POS_FILETYPES 11161               
+POS_DOWNLOADS 11485               
+POS_OS 11533               
+POS_BROWSER 11761               
+POS_SCREENSIZE 12699               
+POS_UNKNOWNREFERER 12773               
+POS_UNKNOWNREFERERBROWSER 13182               
+POS_ORIGIN 13326               
+POS_SEREFERRALS 13465               
+POS_PAGEREFS 13642               
+POS_SEARCHWORDS 13867               
+POS_KEYWORDS 14019               
+POS_MISC 2492                
+POS_ERRORS 14078               
+POS_CLUSTER 6628                
+POS_SIDER_404 14348               
+POS_SIDER_403 15060               
+POS_SIDER_400 15142               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250505030603 1649 494763 11062344328857
+FirstTime 20250504063424
+LastTime 20250505030600
+LastUpdate 20250505041215 1649 0 1649 0 0
+TotalVisits 74                  
+TotalUnique 68                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 68                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 25387 1 2 887
+1 6 12 148269 1 6 28596
+2 3 3 36682 0 0 0
+3 1 1 11386 1 2 468
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 164 400 9760321 48 61 244504
+7 420 843 10194507 43 81 108251
+8 7 7 6032 0 2 0
+9 10 10 11237 3 6 22263
+10 0 0 0 0 0 0
+11 1 1 567 1 3 14630
+12 5 5 4366 0 2 0
+13 0 0 0 6 9 4800
+14 13 13 9915 9 18 8007
+15 3 3 1511 1 5 14630
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 10 10 12139 0 1 0
+19 1 1 567 2 4 15720
+20 70 78 2718347 15 23 111940
+21 2 2 25319 0 0 0
+22 5 11 145616 1 4 709
+23 3 9 112631 4 9 26131
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 68
+174.83.213.171 626 1292 22624233 20250504221449
+15.235.186.96 5 5 7226 20250504092448
+144.217.86.46 5 5 7226 20250504184540
+54.174.140.70 4 4 25710 20250505015354
+54.164.157.105 3 3 1701 20250504075409
+52.16.245.145 3 3 2458 20250504080918
+212.143.94.254 3 3 2296 20250504144610
+154.28.229.186 3 4 4499 20250504203823
+162.244.93.14 3 3 51377 20250504063425
+68.183.245.101 2 2 2048 20250504145207
+3.235.144.248 1 1 875 20250504141350
+65.108.186.9 1 1 1693 20250504184010
+54.145.205.27 1 1 472 20250504072809
+138.94.219.101 1 1 567 20250504091745
+154.28.229.48 2 2 1986 20250504072552
+34.135.5.250 1 1 912 20250504183451
+185.247.137.202 1 1 12808 20250504234520
+46.161.57.181 2 2 1824 20250504144408
+156.146.41.207 1 1 472 20250504150056
+192.175.111.250 1 1 1424 20250504072954
+104.143.89.188 1 1 912 20250504091741
+93.71.103.137 1 1 875 20250504144631
+45.81.148.109 1 1 472 20250504150143
+104.164.173.16 1 1 993 20250504072542
+192.175.111.240 1 1 1730 20250504072953
+93.158.90.71 1 1 12630 20250504220318
+51.15.9.50 2 2 1396 20250504185409
+154.28.229.147 1 1 993 20250504201551
+170.205.30.11 2 2 22442 20250505022023 20250505014030 /
+152.39.156.22 1 1 472 20250504073022
+94.247.172.129 1 1 875 20250504090536
+34.222.75.179 2 2 25461 20250505023035 20250505023031 /
+89.104.101.64 1 1 12667 20250504232416
+35.203.174.247 2 2 612 20250504073236
+54.217.83.13 1 1 912 20250504180918
+199.45.154.143 2 2 1824 20250504125248
+64.15.129.116 2 2 3460 20250504072954
+3.220.101.67 1 1 567 20250504073251
+142.111.103.233 1 1 912 20250504122454
+87.236.176.18 1 1 12808 20250505005513
+18.212.14.121 1 1 472 20250504145729
+69.111.176.154 1 1 912 20250504073210
+195.201.168.79 1 1 11498 20250504222300
+176.103.241.38 1 1 875 20250504073830
+54.174.109.174 2 2 1134 20250504193834
+35.90.154.38 2 2 1824 20250504085105
+193.112.35.218 1 7 87156 20250505012817
+170.106.84.136 1 1 12667 20250505012118
+141.95.175.112 1 1 912 20250504074029
+104.253.214.199 1 1 472 20250504073110
+52.13.106.131 2 2 1750 20250504085103
+138.199.60.33 1 1 11386 20250505030600 20250505030600 /
+54.91.77.233 1 7 87156 20250504232209
+54.190.147.217 1 1 12667 20250504211310
+128.90.145.94 1 1 1053 20250504145023
+35.165.215.140 1 1 472 20250504073304
+104.232.194.110 1 1 815 20250504121809
+154.28.229.233 1 1 993 20250504203816
+217.114.215.132 1 1 472 20250504144321
+3.231.235.231 1 7 92655 20250504223349
+64.15.129.101 1 1 1730 20250504072954
+149.57.180.137 1 1 1090 20250504091309
+135.148.195.2 1 1 12649 20250505015150
+156.255.5.32 1 1 308 20250504073830
+35.93.21.102 1 1 12652 20250504211326
+192.71.3.222 1 1 12579 20250505000509
+104.232.195.69 1 1 815 20250504122432
+167.100.103.57 1 1 815 20250504073246
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 2
+20250504 714 1393 23003075 65
+20250505 12 18 221724 9
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 726 1411 23224799
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+wordpress 50 20773 20250505030601 0
+twitterbot 29 222573 20250504142805 3
+Go\-http\-client/ 9 7259 20250504073304 0
+no_user_agent 6 7939 20250504095426 0
+Googlebot/ 6 4510 20250504130703 1
+curl 5 13905 20250504232055 0
+CheckMarkNetwork/ 3 1674 20250504203447 1
+trendiction 2 1294 20250504073236 1
+[\s_+:,\.\;\/\\-]bot 2 565 20250504203556 1
+unknown 2 838 20250505000506 2
+python 1 12616 20250504230700 0
+scrapy 1 1090 20250504193213 0
+Apache\-HttpClient/ 1 1090 20250504073808 0
+Applebot/ 2 1368 20250504073219 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 2
+0s-30s 67
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 72
+/wp-admin/admin-ajax.php 155 910228 0 0
+/ 130 900810 73 69
+/wp-json/wp/v2/posts 35 53590 0 0
+/wp-admin/admin.php 25 532963 0 0
+/wp-json/wp/v2/taxonomies 23 41786 0 0
+/wp-json/wp/v2/navigation 19 37834 0 0
+/wp-json/wp/v2/settings 17 34396 0 0
+/wp-json/wp/v2/pages 16 43547 0 0
+/wp-json/wp/v2/wp_pattern_category 15 11820 0 0
+/wp-json/wp/v2/templates 14 56918 0 0
+/wp-json/wp/v2/templates/twentytwentyfive/single 1 3072 0 0
+/wp-admin/post.php 8 1354528 0 0
+/wp-content/plugins/pagelayer/css/givecss.php 3 46614 0 0
+/wp-admin/load-styles.php 8 1453866 0 0
+/wp-json/wp/v2/pages/27 1 1652 0 0
+/wp-json/wp/v2/comments 9 10446 0 0
+/wp-json/wp/v2/users/1 6 4770 0 0
+/wp-json/wp/v2/categories 5 5400 0 0
+/wp-json/wp/v2/pages/2 1 2181 0 0
+/wp-admin/plugins.php 5 91808 0 0
+/wp-json/wp/v2/pages/11/autosaves 1 753 0 0
+/wp-admin/post-new.php 2 232842 0 0
+/wp-json/wp/v2/undefined/ 1 906 0 0
+/wp-json/wp/v2/navigation/34 7 12156 0 0
+/wp-json/elementor/v1/checklist/user-progress 13 12327 0 0
+/wp-json/wp/v2/users/me 8 13708 0 0
+/update_pass.php 1 325 1 0
+/wp-json/wp/v2/types 1 4559 0 0
+/wp-json/wp/v2/types/post 10 16784 0 0
+/wp-json/wp/v2/categories/1 1 1057 0 0
+/wp-json/wp/v2/templates/twentytwentyfive/home 7 15286 0 0
+/wp-json/elementor/v1/site-navigation/recent-posts 3 2786 0 0
+/wp-json/wp/v2/users 6 4872 0 0
+/wp-admin/load-scripts.php 12 697562 0 0
+/wp-admin/theme-install.php 1 16760 0 0
+/wp-json/wp/v2/tags 2 1576 0 0
+/wp-admin/about.php 1 15295 0 0
+/wp-json/elementor/v1/send-event 9 8334 0 0
+/wp-admin/edit.php 11 223978 0 0
+/wp-admin/themes.php 5 89146 0 0
+/wp-json/wp/v2/blocks 12 11994 0 0
+/wp-json/elementor/v1/kit-elements-defaults 3 2241 0 0
+/wp-admin/site-editor.php 9 1368284 0 0
+/wp-json/wp/v2/posts/1 1 1893 0 0
+/wp-json/elementor/v1/globals 3 3000 0 0
+/wp-admin/theme-editor.php 1 18059 0 0
+/wp-admin/customize.php 1 178926 0 0
+/wp-json/wp/v2/pages/12 3 4308 0 0
+/2025/05/04/hello-world/ 1 22036 0 0
+/check_charset.php 1 312 0 0
+/wp-admin/update-core.php 1 12985 0 0
+/wp-json/wp/v2/posts/ 2 8732 0 0
+/wp-admin/plugin-install.php 2 41292 0 0
+/wp-json/wp/v2/templates/lookup 9 16652 0 0
+/wp-json/wp-block-editor/v1/navigation-fallback 7 8604 0 0
+/wp-content/plugins/pagelayer/js/givejs.php 4 96526 0 0
+/wp-content/plugins/pagelayer/fonts/font-awesome5.json 1 7477 0 0
+/wp-json/elementor/v1/checklist/steps 1 1673 0 0
+/wp-json/wp/v2/taxonomies/post_tag 2 3196 0 0
+/wp-json/wp/v2/template-parts/twentytwentyfive/footer 8 16481 0 0
+/https%3A/iamtheorigin.org/feed/ 1 851 0 1
+/home/ 2 35652 0 0
+/wp-content/plugins/pagelayer/fonts/pagelayer.ttf 1 21591 0 0
+/wp-json/wp/v2/pages/25 1 1655 0 0
+/wp-json/wp/v2/taxonomies/category 5 8270 0 0
+/wp-json/wp/v2/menus 8 8656 0 0
+/wp-json/wp/v2/pages/11 3 19998 0 0
+/wp-json/wp/v2/templates/twentytwentyfive/page 1 1576 0 0
+/wp-admin/ 14 390279 0 1
+/wp-json/wp/v2/types/page 4 6624 0 0
+/wp-json/wp/v2/block-patterns/patterns 9 809495 0 0
+/wp-json/wp/v2/template-parts/twentytwentyfive/header 7 11088 0 0
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+png 37 1540283 0 0
+css 196 575498 0 0
+wav 1 92542 0 0
+svg 32 116216 0 0
+js 365 6710746 0 0
+gif 6 179533 0 0
+php 407 8741565 0 0
+webp 28 1450596 0 0
+ttf 1 21591 0 0
+woff 1 19146 0 0
+json 1 7477 0 0
+woff2 14 924234 0 0
+jpg 5 1506358 0 0
+Unknown 317 1339014 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+macosx15 1304 637
+macosx 1 1
+macosx9 2 2
+win10 34 34
+win8.1 2 2
+linux 27 15
+Unknown 17 17
+macosx14 3 3
+ios_iphone 8 8
+androidmarshmallow 7 1
+android 1 1
+win7 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 47
+chrome99.0.4844.51 7 1
+safari10.0 1 1
+firefox71.0 1 1
+chrome131.0.0.0 2 2
+safari18.0 1 1
+chrome130.0.0.0 3 3
+safari13.0.3 1 1
+safari 3 3
+chrome133.0.0.0 1 1
+chrome41.0.2228.0 1 1
+firefox120.0 1 1
+chrome128.0.0.0 2 2
+chrome122.0.0.0 3 3
+opera80.4.4244.7786 1 1
+firefox115.0 1 1
+firefox102. 3 3
+chrome66.0.3359.181 2 2
+netscape5.0 1 1
+Unknown 11 11
+firefox83.0 1 1
+chrome33.0.1750.152 1 1
+chrome110.0.0.0 1 1
+firefox82.0 1 1
+chrome123.0.0.0 1 1
+firefox122.0 3 3
+chrome124.0.0.0 7 1
+chrome129.0.0.0 8 2
+chrome78.0.3904.108 1 1
+chrome83.0.4103.97 2 2
+msie9.0 1 1
+chrome86.0.4240.111 1 1
+chrome45.0.2454.85 2 2
+mozilla 6 6
+firefox115 1 1
+chrome103.0.0.0 1 1
+chrome117.0.0.0 10 9
+safari15.4 2 2
+chrome107.0.0.0 2 2
+chrome116.0.0.0 2 2
+chrome113.0.0.0 2 2
+chrome94.0.4606.61 1 1
+chrome111.0.5563.65 1 1
+safari12.1 1 1
+chrome135.0.0.0 1297 631
+edge12 4 4
+chrome132.0.0.0 4 4
+chrome134.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_SeoLyt/1.0;__https://seolyt.com) 20250504185409
+okhttp/4.9.2 20250505015354
+WhatsApp/2.23.20.0 20250504221449
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250504125248
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250505005513
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WhatsApp/2.23.20.0 20250504221449
+okhttp/4.9.2 20250505015354
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 118 151
+From1 0 0
+From2 2 2
+From3 3 3
+From4 603 1255
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_ie 1 1
+google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://usuh8.lol 1 1
+https://t.co/bZxINpJOLb 1 1
+https://t.co/UDRbFesrut 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+201 1 1599
+301 8 3669
+500 2 2368
+302 21 14257
+404 34 282149
+END_ERRORS
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+1K-2K 357
+100-500 97
+0-44 10
+5K+ 457
+2K-5K 238
+44-100 1
+500-1K 489
+END_FILESIZE
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 12
+/https%3A/iamtheorigin.org/wp-content/themes/twentytwentyfive/style.css%3Fver%3D1.2 1 -
+/wp-admin/admin-ajax.php 1 http://iamtheorigin.org/wp-admin/customize.php
+/https%3A/iamtheorigin.org/wp-includes/blocks/navigation/style.min.css%3Fver%3D6.8.1 1 -
+/https%3A/iamtheorigin.org 1 -
+/https%3A/iamtheorigin.org/wp-json/ 1 -
+/https%3A/wordpress.org 1 -
+/%7B%7Bparallax_img_src 1 http://iamtheorigin.org/
+/sapp-plugin-activate.php 13 -
+/https%3A/iamtheorigin.org/xmlrpc.php%3Frsd 1 -
+/favicon.png 11 -
+/https%3A/iamtheorigin.org/wp-includes/js/dist/script-modules/interactivity/index.min.js%3Fver%3D55aebb6e0a16726baffb 1 -
+/%23 1 -
+END_SIDER_404
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 0
+END_SIDER_403
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
